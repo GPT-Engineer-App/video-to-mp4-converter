@@ -68,6 +68,6 @@
 
 @layer base {
   body {
-    @apply text-foreground;
+    color: var(--foreground);
   }
 }
